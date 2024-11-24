@@ -1,1 +1,3 @@
-craeting text1.txt file
+creating ing text1.txt file
+  
+  
